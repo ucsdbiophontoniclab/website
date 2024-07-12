@@ -1,10 +1,10 @@
 {
-  "title": "BioDat lab",
+  "title": "Cellular Biophotonics Lab",
   "siteUrl": "https://badlab.vercel.app/",
-  "description": "Lab website for Titipat Achakulvisut's lab at Mahidol University, Thailand",
+  "description": "Lab website for Michael W.Berns' lab at UCSD",
   "ogImage": "/assets/logos/og-image.jpeg",
   "home": {
-    "title": "Biomedical and Data Lab @ Mahidol University",
+    "title": "Cellular Biophotonics Lab @ UCSD",
     "description": "Biomedical and Data (Bio-Data) lab at Mahidol University runs by Titipat Achakulvisut. Our lab work in an intersection of applied natural language processing, machine learning (ML), data science (DS), and science of science. We aim to build tools to make better science and medical applications using ML and DS.",
     "interests": "Applied Natural Language Processing | Applied Machine Learning | Data Science | Science of Science",
     "funders": "We got generous funding support from many organizations including Center for Open Science, Defense Advanced Research Projects Agency (DARPA), Youth Startup Fund (TED Fund) Thailand, and National Research Council of Thailand (NRCT). You can see our funders below.",
