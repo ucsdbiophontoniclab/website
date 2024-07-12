@@ -2,7 +2,7 @@
 template: BlogPost
 path: /people/titipat
 date: 2020-01-01T06:15:50.738Z
-title: Dr.Linda Shi
+title: Dr. Michael W. Berns
 thumbnail: /assets/people/titipat.png
 position: PI
 metaDescription: Principal investigator
@@ -12,7 +12,7 @@ order: 0
 - Tenure track lecturer at Mahidol University
 - Contact: please see [contact](/contact) page
 
-Dr. Linda Shi is the Project Scientist and Lab Coordinator at the Cellular Biophotonics Lab. She has been working at the UCSD Biophotonics Lab since 2004. Her current research interests mainly focus on the cellular or subcellular responses to the laser ablation and laser trapping through the collaborations with different research labs at UCSD, UCI, UCSF, Scripps Institutes and Salk Institute.
+Co founder of UCI Beckman Laser Institute & Medical Clinic, Michael Berns is a distinguished professor who has made numerous breakthroughs in the application of lasers in biomedical problems. Recipient of the UCI Medal, William B Mark Award, Vascular Birthmak Foundation Achievement Award, Lifetime Achievement Award from SPIE, and much more.
 ## Positions and previous work
 
 - Advisor at [Looloo Technology](https://loolootech.com/)
