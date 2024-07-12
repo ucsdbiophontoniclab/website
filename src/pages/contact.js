@@ -37,7 +37,7 @@ const ContactPage = ({ data: { site } }) => {
           <div className="primary-content">
             <b>Undergraduate students: </b>
             To discuss potential research projects or ideas, feel free to reach
-            out to Titipat and arrange a brief meeting.
+            out to Titipat and arrange a brief meeting test.
           </div>
           <div className="primary-content">
             <b>Graduate students: </b>
