@@ -20,11 +20,14 @@ const IndexPage = ({
     </div>
   ));
 
-  const FunderLogos = home.funder_logos[theme].map((imgPath) => (
-    <div key={imgPath} className="image-container funder">
-      <img src={imgPath} alt={imgPath} />
+const FunderLogos = home.funder_logos[theme].map((imgPath) => {
+  const modifiedImgPath = imgPath.replace(/^\//, ''); // Remove the first slash if it exists
+  return (
+    <div key={modifiedImgPath} className="image-container funder">
+      <img src={modifiedImgPath} alt={modifiedImgPath} />
     </div>
-  ));
+  );
+});
 
   return (
     <Layout>
