@@ -36,26 +36,31 @@ const ContactPage = ({ data: { site } }) => {
           </div>
           <div className="primary-content">
             <b>Undergraduate students: </b>
-            To discuss potential research projects or ideas, feel free to reach
-            out to Titipat and arrange a brief meeting test.
+            We are looking for an undergraduate with a biology/biochemistry/chemistry
+            background who is self-motivated, detail-oriented and interested in 
+            learning molecular biology techniques to be applied to a project involved
+            in the study of DNA repair and cellular division in the bioengineering 
+            department. Preference will be given to anyone with previous experience 
+            in recombinant DNA techniques. Please contact Linda Shi at zhixiashi@gmail.com.
           </div>
           <div className="primary-content">
             <b>Graduate students: </b>
-            Prospective students interested in pursuing a Masters or PhD program
-            in Biomedical Engineering at Mahidol University can submit a CV
-            along with a brief statement of their research interests before
-            applying. Additionally, they can arrange a discussion with Titipat
-            in advance. Titipat is also available for co-advising in various
-            departments outside Mahidol University, such as the Department of
-            Computer Engineering at Mahidol University, Vidyasirimedhi Institute
-            of Science and Technology (VISTEC), or Chulalongkorn University,
-            Thailand, providing multiple options for interested students.
+            Open to post-doctorates or anyone holding a
+            BS and MS with an optics background. Biophotonics lab at UCSD seeks  
+            applicants with an expertise for the design and construction of laser-based 
+            optical microscopes. Applicants should have proven experience in the 
+            application of these new technologies, which are focused around photonics 
+            and laser interactions in a focused microscope spot. Candidate must be 
+            able to provide physics and optics expertise and at the same time, work 
+            specifically to integrate various new optical technologies into current 
+            systems. Experience in molecular biology and cell culture is also 
+            desirable. Please contact Linda Shi at zhixiashi@gmail.com.
           </div>
           <div className="primary-content">
-            <b>Other positions: </b>The lab is always actively looking for
+            <b>Other positions: </b> The lab is always actively looking for
             interns, researchers, and developers. If you are interested in doing
             these position (locally or remotely), please also do not hesitate to
-            email Titipat to discuss.
+            email Titipat to discuss. 
           </div>
           <div className="primary-content">
             <b>Office: </b>
