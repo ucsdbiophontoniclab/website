@@ -5,11 +5,7 @@
   "ogImage": "/assets/logos/og-image.jpeg",
   "home": {
     "title": "Cellular Biophotonics Lab @ UCSD",
-    "mission statement": "The Biophotonics Technology Center (BTC) is a program dedicated to:
-1.) studying how light (photons) interact with cells and their subcellular organelles, and
-2.) using this knowledge to study cell structure and function on a nanoscale and below level.
-3.) train all levels of students in the filed of biology and bioengineering
-The CBL is comprised of two labs located on two different University of California campuses: UC Irvine (Beckman Laser Institute/ Department of Biomedical Engineering), and UC San Diego (Department of Bio Engineering). The labs are connected via high speed internet interfaces that employ remote robotic laser microscopes, RoboLase I, II, and III. It is our goal that students faculty, post docs and research scientists move seamlessly between both labs.",
+    "mission statement": "The Biophotonics Technology Center (BTC) is a program dedicated to: 1. studying how light (photons) interact with cells and their subcellular organelles, and 2. using this knowledge to study cell structure and function on a nanoscale and below level. 3. train all levels of students in the filed of biology and bioengineering The CBL is comprised of two labs located on two different University of California campuses: UC Irvine (Beckman Laser Institute/ Department of Biomedical Engineering), and UC San Diego (Department of Bio Engineering). The labs are connected via high speed internet interfaces that employ remote robotic laser microscopes, RoboLase I, II, and III. It is our goal that students faculty, post docs and research scientists move seamlessly between both labs.",
     "interests": "Applied Natural Language Processing | Applied Machine Learning | Data Science | Science of Science",
     "funders": "We got generous funding support from many organizations including Center for Open Science, Defense Advanced Research Projects Agency (DARPA), Youth Startup Fund (TED Fund) Thailand, and National Research Council of Thailand (NRCT). You can see our funders below.",
     "collaborators": "We collaborate with multiple researchers, institutes, conferences, and organizations from outside and in Thailand. This includes Neuromatch, Center for Open Science (COS), Konrad Kording Lab at the University of Pennsylvania, Daniel Acuna Lab at Syracuse University, Nidhi Seethapathi at MIT, Siriraj Hospital, 425Degree Thailand, Looloo Technology, VISTEC Thailand, AI Research Thailand, and many more.",
