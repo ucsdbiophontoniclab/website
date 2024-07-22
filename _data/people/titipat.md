@@ -2,7 +2,7 @@
 template: BlogPost
 path: /people/titipat
 date: 2020-01-01T06:15:50.738Z
-title: Dr. Michael W. Berns
+title: Titipat Achakulvisut
 thumbnail: /assets/people/titipat.png
 position: PI
 metaDescription: Principal investigator
@@ -12,7 +12,8 @@ order: 0
 - Tenure track lecturer at Mahidol University
 - Contact: please see [contact](/contact) page
 
-Co founder of UCI Beckman Laser Institute & Medical Clinic, Michael Berns is a distinguished professor who has made numerous breakthroughs in the application of lasers in biomedical problems. Recipient of the UCI Medal, William B Mark Award, Vascular Birthmak Foundation Achievement Award, Lifetime Achievement Award from SPIE, and much more.
+Titipat Achakulvisut runs the biomedical and data lab (BioDat lab) at the Department of Biomedical Engineering, Mahidol University, Nakhon Pathom, Thailand. He completed his Ph.D. in Bioengineering at University of Pennsylvania with [Konrad Kording](http://kordinglab.com/) working on applying natural language processing and machine learning to improve scientific processes. His interests are to combine NLP, ML, and tools to improve science itself. In extension to his core research, he also broadly interests in applying ML and NLP in biomedical and business domains in Thailand where he collaborate with multiple research groups and companies in Thailand pushing NLP and ML for real use cases.
+
 ## Positions and previous work
 
 - Advisor at [Looloo Technology](https://loolootech.com/)
