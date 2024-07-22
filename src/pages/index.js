@@ -14,17 +14,20 @@ const IndexPage = ({
 }) => {
   const { theme } = useThemeContext();
 
+  const removeLeadingSlash = (path) => path.replace(/^\/+/, '');
+
   const ResearchImages = home.research[theme].map((imgPath) => (
     <div key={imgPath} className="image-container">
-      <img src={imgPath} alt={imgPath} />
+      <img src={removeLeadingSlash(imgPath)} alt={imgPath} />
     </div>
   ));
 
   const FunderLogos = home.funder_logos[theme].map((imgPath) => (
     <div key={imgPath} className="image-container funder">
-      <img src={imgPath} alt={imgPath} />
+      <img src={removeLeadingSlash(imgPath)} alt={imgPath} />
     </div>
   ));
+
 
   return (
     <Layout>
