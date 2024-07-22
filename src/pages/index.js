@@ -33,7 +33,7 @@ const IndexPage = ({
     <Layout>
       <HelmetWrapper />
       <HeroHeader />
-      <h2>Research</h2>
+      <h2>Mission Statement</h2>
       <div className="two-grids outer-container">{ResearchImages}</div>
       <h2>Funders</h2>
       <div className="primary-content">{home.funders}</div>
